@@ -1,0 +1,23 @@
+[
+    {
+        "type": "BETA",
+        "price": "FREE",
+        "options": [],
+        "button": "Add messagerPro",
+        "colorGray": false
+    },
+    {
+        "type": "Basic",
+        "price": "FREE with ads",
+        "options": [],
+        "button": "Start 30 days free trial",
+        "colorGray": true
+    },
+    {
+        "type": "Premium",
+        "price": "$<span>5</span>/year, no ads",
+        "options": [],
+        "button": "Contact us",
+        "colorGray": false
+    }
+]

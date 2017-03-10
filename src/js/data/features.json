@@ -1,0 +1,14 @@
+[
+    {
+        "title"   : "Recap",
+        "content" : "We have “recaps” for everything but our messages. MessagePro’s Recap is a collection of all your messages that you haven’t responded to - you know, the ones you thought you answered - and presents them to you at the time of your choosing. Never miss a message again."
+    },
+    {
+        "title"   : "Schedule",
+        "content" : "Schedule messages to send when you need them to. Set up birthday wishes, reminders to friends and family, or notes to coworkers that they’ll receive at the perfect time. You’ll love your newfound efficiency in communication."
+    },
+    {
+        "title"   : "Lock",
+        "content" : "Save messages with important information or sentimental value and get easy access to them. Our proprietary Lock feature prevents that message from being deleted, even if you delete the conversation thread with that contact."
+    }
+]
